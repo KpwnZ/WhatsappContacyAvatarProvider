@@ -1,0 +1,8 @@
+Package: com.xcxiao.whatsappcontacyavatarprovider
+Name: WhatsappContacyAvatarProvider
+Depends: mobilesubstrate, com.xcxiao.contactnotification
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Contacy extension!
+Maintainer: XCXiao
+Author: XCXiao
